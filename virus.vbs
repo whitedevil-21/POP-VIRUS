@@ -1,0 +1,3 @@
+do
+msgbox("YOUR DEVICE WAS TOTAL INFECTED")
+loop
